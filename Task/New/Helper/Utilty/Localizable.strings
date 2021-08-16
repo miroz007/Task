@@ -1,0 +1,274 @@
+/* 
+  Localizable.strings
+  ECHO
+
+  Created by Emad Habib on 20/12/2020.
+  Copyright © 2020 Emad Habib. All rights reserved.
+*/
+"Job Titles" = "Job Titles";
+"Sepciality" = "Sepciality";
+"Message Type" = "Message Type";
+"Message only" = "Message only";
+"Message with a reply" = "Message with a reply";
+"Usage Policy" = "Usage Policy";
+"About Us" = "Usage Policy";
+"Contact Us" = "Contact Us";
+"Sent from" = "Sent from";
+"Sent to" = "Sent to";
+"Favorite" = "Favorite";
+"Edit Message" = "Edit Message";
+"Edit" = "Edit";
+"Message title can't be empty" = "Message title can't be empty";
+"Message price can't be empty" = "Message price can't be empty";
+"Manage Messages" = "Manage Messages";
+"Hide" = "Hide";
+"Show" = "Show";
+"Profile" = "Profile";
+"Empty. Click to change" = "Empty. Click to change";
+"Not selected yet. Click to change" = "Not selected yet. Click to change";
+"Name Editing" = "Name Editing";
+"Name" = "Name";
+"Phone Editing" = "Phone Editing";
+"Phone number" = "Phone number";
+"Email Editing" = "Email Editing";
+"Email" = "Email";
+"Job Title & Specialty Editing" = "Job Title & Specialty Editing";
+"Job Title" = "Job Title";
+"Specialty" = "Specialty";
+"Date Of Birth Editing" = "Date Of Birth Editing";
+"Date Of Birth" = "Date Of Birth";
+"Bio Editing" = "Bio Editing";
+"Bio" = "Bio";
+"Job title or Specialty can't be empty" = "Job title or Specialty can't be empty";
+"Field can't be empty" = "Field can't be empty";
+"Mark as read" = "Mark as read";
+"Read message to get the amount" = "Read message to get the amount";
+"Reply" = "Reply";
+"Reply to message to get the amount" = "Reply to message to get the amount";
+"Unread" = "Unread";
+"Read" = "Read";
+"Waiting for reply" = "Waiting for reply";
+"Replied" = "Replied";
+"Reply can't be empty" = "Reply can't be empty";
+"Message has been sent successfully" = "Message has been sent successfully";
+"You should login / register to can send messages." = "You should login / register to can send messages.";
+"You should login / register to can add to favourite" = "You should login / register to can add to favourite";
+"Categories" = "Categories";
+"Inbox" = "Inbox";
+"Sent" = "Sent";
+"Trending" = "Trending";
+"Categories" = "Categories";
+"Featured" = "Featured";
+"New" = "New";
+"Enter code sent to your number " = "Enter code sent to your number ";
+"we sent it to the number " = "we sent it to the number ";
+"Enter 4 digit code" = "Enter 6 digit code";
+"The code was sent to your mobile number. Please enter code" = "The code was sent to your mobile number. Please enter code";
+"Code is not correct" = "Code is not correct";
+"The account has been regisered before, please use a new one" = "The account has been regisered before, please use a new one";
+"The user has not signed in before or they have since signed out." = "The user has not signed in before or they have since signed out.";
+"No Favs message" = "No Favs";
+"No Favs title" = "No Favs";
+"No messages title" = "No messages";
+"No messages message" = "No messages";
+"No wifiIcon title" = "No Wifi";
+"No wifiIcon message" = "No Wifi";
+"unkown title" = "Unknown Error";
+"unkown message" = "Unknown Error";
+"No profile title" = "No Account Found";
+"No profile message" = "No Account Found";
+"Type a message here" = "Type a message here";
+
+
+
+/*
+ Localizable.strings
+ ASCIOS
+ 
+ Created by Emad Habib on 2/5/20.
+ Copyright © 2020 islam. All rights reserved.
+ */
+
+"couldn't be found in Storyboard file" = "couldn't be found in Storyboard file";
+"Generic Error" = "Generic Error";
+"HTTP status code 403" = "HTTP status code 403";
+"Could not parse the json" = "Could not parse the json";
+"Unable to contact the server" = "Unable to contact the server";
+"Slow internet connection" = "Slow internet connection";
+"error" = "Unknown error";
+"Network error" = "Network error";
+"OK" = "OK";
+
+"home"="Home";
+"search"="Search";
+"more"="More";
+"favs"="Favorites";
+
+"about" = "About Us";
+"contact" = "Contact Us";
+"terms" = "Terms & Conditions";
+"privacy" = "Privacy Policy";
+"myTrip" = "My Trips";
+"favorite" = "Favorite";
+"logout" = "Logout";
+
+
+
+
+"emailError" = "Error: the email is required";
+"mobileError" = "Error: the mobile number is required";
+"nameError" = "Error: the name is required";
+
+"usernameError" = "Error: the username is required";
+"passwordError" = "Error: password must be more than 5 characters";
+"passwordMatchError" = "Error: confirm password must match";
+
+"done" = "Done";
+"confirmMessage" = "successfully done";
+
+"passport_nameError" = "Error: the name is required";
+
+"explore_cities"="Explore cities";
+"search_offers"="Search offers";
+"profile"="Profile";
+"nots"="Notifications";
+"menu"="Menu";
+
+"clearAll" = "Clear All";
+
+
+"Jan" = "Jan";
+"Feb" = "Feb";
+"Mar" = "Mar";
+"Apr" = "Apr";
+"May" = "May";
+"Jun" = "Jun";
+"Jul" = "Jul";
+"Aug" = "Aug";
+"Sep" = "Sep";
+"Oct" = "Oct";
+"Nov" = "Nov";
+"Dec" = "Dec";
+
+
+"Adult"="Adult";
+"Child"="Child";
+
+"Tickets" = "Tickets";
+
+
+"noInternet" = "No internet connection";
+"checkInternet"= "Please check your internet connection";
+"noFavoritesTitle"= "No Favorites Found";
+"noTripsFav"= "You don’t have any trips in your favorites.";
+"noResults"= "No Results Found";
+"noResults_Filter"= "We couldn’t find any results. Change selected filters or try later";
+"Error"= "Error!";
+"Something_went_wrong"= "Something went wrong";
+"No_Trips_Yet"= "No Trips Yet";
+"No_Trips_Scheduled"= "You don’t have any scheduled trips yet";
+"No_Profile"= "No Profile Yet";
+"have_to_login"= "You have to login/Register first";
+
+"explore_our_trips" = "explore_our_trips";
+
+"Confirmation"="Confirmation";
+"Logout"="Logout";
+"want_to_logout"="Are you sure you want to logout ?";
+"code_is_Wrong"="Code is Wrong";
+"clear_Notifications"="Clear Notifications";
+"recover_Notifications"="You will not be able to recover them afterwards";
+"want_to_clear_all"="Are you sure you want to clear all your notifications ?";
+
+"forgetPW" = "Forget Password?";
+
+"Mobile_Number"="Mobile Number";
+"Enter_your_mobile"="Enter your mobile number to receive a verification code";
+"Forgot_Password"="Forgot Password";
+"Enter_registered_mobile"="Enter your registered mobile number to reset your password";
+
+"enter_6_digits" = "Enter 6 digit number that sent to";
+
+
+"Less_Liked"="Less Liked";
+"Most_Liked"="Most Liked";
+"Price_LTH"="Price Low to High";
+"Price_HTL"="Price High to Low";
+
+"LoginPermession"="You should be logged";
+
+"searchError" = "We could not find any results. Change the selected search options or try later";
+
+"searchDateError_SelectFirst" = "Please you must select Date start";
+"searchDateError_SameDates" = "The two dates are the same";
+"searchDateError_LaterDate" = "Date start is later than date end";
+"ChangeLanguage" = "Change Language";
+"adultLimitOne" = "Please select at least one adult";
+
+"bookYourSelf"="Are you one of the travellers? If you are one of the travellers, we'll fill your registered data to facilitate your booking process";
+"bookYourSelf_OK"="Yes";
+"bookYourSelf_CANCEL"="No, I’m Not";
+"adults"="Adults";
+"adult_year"="12+ Years";
+"children"="Children";
+"children_year"="2-12 Years";
+"notifications_settings" = "Notifications Settings";
+"refresh" = "Refresh";
+
+"nameWrong" = "Name Wrong";
+"nationalityWrong" = "Nationality Wrong";
+"idNumberWrong" = "Passport/Civil ID Wrong";
+
+
+
+"nameWrong" = "Please write your name as it’s written in the passport";
+"nationalityWrong" = "Please write your nationality";
+"idNumberWrong" = "Please write your civil id / passport id";
+
+
+"cancel"="Cancel";
+"Settings"="Settings";
+"mark_all_as_read"="Mark all as read";
+"clear_all"="Clear all";
+
+"notificationError" = "There is no new notification yet";
+
+"unauth_logout" = "Please sign in again";
+"Warning" = "Warning";
+"OfferPassportRequire" = "this offer accepts passport number only";
+"process_success" = "the process is done successfully";
+"Add_Traveller" = "Add Traveller";
+
+"NoMoreAdults" = "No more travelers can be chosen";
+"NoMoreChilds" = "No more travelers can be chosen";
+"CantChooseChilds" = "You cannot choose child travelers";
+
+"No_Frequent_Travellers" = "No Frequent Travellers";
+"HaveNOT_Registered_Travellers" = "You don’t have any registered travellers yet";
+"IOS_SCANNER" = "Require ios 13 for scan documents";
+"Expired_Passport" = "Expired Passport";
+"date_between" = "Please select date between";
+"dateValidUntil" = "This offer is valid until";
+"pending" = "Pending";
+"completed" = "Completed";
+"waitDate" = "Waiting for date selection";
+
+"CancelTrip" = "Cancel Trip ?";
+"CancelTripMessage" = "Your Trip will be cancelled.";
+
+"newPasswordError" = "Error: New password must be more than 5 characters";
+"conNewpasswordError" = "Error: Confirm New password must be more than 5 characters";
+"confirmed" = "Confirmed";
+
+"password_confirmMessage" = "Password changed successfully";
+"cancelled" = "Cancelled";
+"Not_selected_yet" = "Not selected yet";
+
+
+"day" = "Day";
+"days" = "Days";
+"KWD" = "KWD";
+"You_can_share_this_link" = "You can share this link with anyone to pay the trip for you";
+"Share_Payment_Link" = "Share Payment Link";
+"register" = "Register";
+
